@@ -1,9 +1,12 @@
 octodex
 =======
-
+ 
+# I DO NOT OWN ANY OF THE CONTENTS.
+ 
+ 
 GitHub's Octocats.
 
-The contents of this repo belongs to GitHub. I DO NOT OWN ANY OF THE CONTENTS.
+The contents of this repo belongs to GitHub.
 
 All rights are reserved by GitHub.
 
